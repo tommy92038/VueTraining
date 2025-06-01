@@ -1,6 +1,12 @@
 # vue-training
 
-This template should help get you started developing with Vue 3 in Vite.
+vue入門練習
+流程控制
+迴圈
+事件處理
+響應式狀態
+生命週期
+fetch Api
 
 ## Recommended IDE Setup
 
